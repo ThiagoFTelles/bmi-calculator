@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\2t_consultoria\\inovacao\\dev\\flutter\\curso_udemy_angela_yu\\exercicios\\bmi-calculator-flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\2t_consultoria\\inovacao\\dev\\flutter\\curso_udemy_angela_yu\\exercicios\\bmi-calculator\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "E:\\2t_consultoria\\inovacao\\dev\\flutter\\curso_udemy_angela_yu\\exercicios\\bmi-calculator-flutter\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "E:\\2t_consultoria\\inovacao\\dev\\flutter\\curso_udemy_angela_yu\\exercicios\\bmi-calculator\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
