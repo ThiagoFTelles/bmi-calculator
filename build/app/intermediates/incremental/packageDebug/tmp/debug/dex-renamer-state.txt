@@ -1,4 +1,4 @@
-#Fri Nov 29 17:42:17 GMT-03:00 2019
+#Sat Nov 30 16:40:59 GMT-03:00 2019
 base.0=E\:\\2t_consultoria\\inovacao\\dev\\flutter\\curso_udemy_angela_yu\\exercicios\\bmi-calculator\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
